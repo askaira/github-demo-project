@@ -1,8 +1,7 @@
-## Installation Steps
-1. Clone the repo
-2. Install dependecies
-3. Run tests
+### Local Image Example
 
-##Features
-- User Login
-- Data Export
+![Demo Icon](images/demo.png)
+
+### External Image Example
+
+![Github Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)

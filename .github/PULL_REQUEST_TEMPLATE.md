@@ -1,5 +1,6 @@
-## CheckList
-
-- [] Add Tests
-- [] Update docs
-- [] Run CI checks
+## Setup
+1. Install app
+   - Run 'npm install'
+   - Configure '.env'
+2. Start server
+   - 'npm start'
